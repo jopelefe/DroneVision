@@ -131,13 +131,3 @@ az group delete --name rg-dronevision-rm93624 --yes --no-wait
 ```
 
 ---
-
-## 📸 Checklist de evidências para a entrega
-
-- [ ] Script `implantar-rm93624.sh` no GitHub
-- [ ] Código da aplicação Web no GitHub
-- [ ] Print da **execução do script** no Azure Cloud Shell
-- [ ] Print dos **recursos criados** no Portal da Azure (os 4 recursos)
-- [ ] Print da **aplicação publicada** com **2 imagens** do tema (drone/aéreo)
-      analisadas, mostrando descrição + tags
-- [ ] Esta breve explicação da integração (seção acima)
